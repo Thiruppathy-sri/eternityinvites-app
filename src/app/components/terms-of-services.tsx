@@ -66,9 +66,8 @@ const TermsOfService = () => {
       <section className="my-6">
         <h3 className="text-2xl font-bold mb-2">Disclaimer</h3>
         <p>
-          Our services are provided on an "as-is" and "as-available" basis. We
-          make no representations or warranties of any kind, expressed or
-          implied.
+          Our services are provided on an and basis. We make no representations
+          or warranties of any kind, expressed or implied.
         </p>
       </section>
 
